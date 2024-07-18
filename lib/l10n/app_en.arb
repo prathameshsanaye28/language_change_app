@@ -1,0 +1,21 @@
+{
+  "plEnterMobile": "Please enter your mobile number",
+  "pleaseSelectLanguage": "Please select your Language",
+  "languageChangeInfo": "You can change the language at any time.",
+  "next": "NEXT",
+  "rcvCode1": "You'll receive a 6 digit code",
+  "rcvCode2": "to verify next.",
+  "mobileNo": "Mobile Number",
+  "continueText": "CONTINUE",
+  "verifyphone": "Verify Phone",
+  "codesentto": "Code is sent to",
+  "didntreceive": "Didn't receive the code?",
+  "reqAgain": "Request Again",
+  "vercontinue": "VERIFY AND CONTINUE",
+  "selectprof": "Please select your profile",
+  "shipper": "Shipper",
+  "shipdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+  "transporter": "Transporter",
+  "transdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing"
+
+}
